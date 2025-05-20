@@ -107,7 +107,7 @@ project/
 
 ## 🌐 GitHub Repository
 
-> [Add your GitHub link here]
+> (https://github.com/Parthhh13/Flipkart-Project)
 
 ---
 
